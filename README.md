@@ -74,6 +74,6 @@ Por aqui vocês, também encontrarão repositórios com materiais de estudos e p
 
 Antenciosamente,
 
-Leandro Marques da Silva, gradando em Geografia e Análise e Desenvolvimento de Sistemas.
+Leandro Marques da Silva, graduando em Geografia e Análise e Desenvolvimento de Sistemas.
 
 
