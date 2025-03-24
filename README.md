@@ -66,6 +66,10 @@ Ferramentas muito úteis que utilizo:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 
+Status de utilização e contribuição em projetos:
+
+![leandromrtk's Stats](https://github-readme-stats.vercel.app/api?username=leandromrtk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 Por aqui vocês, também encontrarão repositórios com materiais de estudos e pesquisas que são destinas às práticas pedagógicas, voltadas aos professores de geografia, desenvolvedores e pesquisadores, mas que não impossibilita que professores de outras áreas do conhecimento, utitlizem em suas aulas. A ideia aqui, é utlizar e compartilhar todo o conhecimento adquirido nestas duas áreas tão promissoras e abrangentes do conhecimento que venho conquistando durante a graduação, para ampliar o conheicmento e a curisodade dos alunos, entusiastas de tecnologias, pesquisadores e iniciantes,  juntando o útil ao agradável. Importante ressaltar, que a tecnologia e a geografia podem andar de mão dados independente da área de estudo e qualquer pessoa que deseje ampliar seus conhecimentos, poderão utilizar os respositórios como fonte de consulta livremente. Desejo a todos, sucesso no aprendizado, em suas pesquisas, e peço encarecidamente, que continuem compartilhando o conhecimento com o intuito de encorajar e engajar mais pessoas na busca pelo conhecimento.
 
 Antenciosamente,
