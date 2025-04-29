@@ -16,15 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Um pouco sobre mim 👀
-<style>
-.justificado {
-    text-align: justify;
-}
-</style>
 
-<div class="justificado">
 Me chamo Leandro Marques, estou cursando o 4° período do curso de ADS (Análise e Desenvolvimento de Sistemas) na faculdade Senac, além disso, sou graduando do curso de licenciatura em 🌎 Geografia 😍 na Universidade Federal de Pernambuco (UFPE). Atualmente, estou nos períodos finais do curso 🙏, participando do laboratório de pesquisa em climatatologia e eventos climáticos extremos - TROPOCLIMA 💪, pesquiso a influência da Suscetibilidade a Deslizamentos e Movimentos Gravitacionais de Massa no Município de São Lourenço da Mata, Pernambuco.
-</div>
 
 
 Aqui, vocês encontraram projetos individuiais e desenvolvidos em grupo, além de outros projetos de pesquisa que participo e estou desenvolvendo ao logo do tempo. Fiquem a vontade para fazer o fork ou participar ativimente, caso desejem 😉. Podem entrar em contato comigo atráves dos canais abaixo:
